@@ -1,1 +1,1 @@
-message("config-folder-cmake")
+message(STATUS "config-folder-cmake")
